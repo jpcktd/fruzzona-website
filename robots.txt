@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.fruzzona.co.in/sitemap.xml
